@@ -1,0 +1,7 @@
+* {
+    color: red; /* color in CSS refers to font color */
+  } /* all elements will have red font */
+  #red {
+    /* this selects any elements with the red id */
+    border-top-color: #f00;
+  }
